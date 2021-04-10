@@ -1,7 +1,11 @@
+
 - 👋 Hi, I’m @krupalimakadiya
 - 👀 Experienced Node js Developer with 2+ years experience from 🇮🇳
 - 🌱 I’m currently learning react-native
+- 💬 Ask me about Javascript or any tech related stuff.
 - 📫 How to reach me Gmail: krupalimakadiya123@gmail.com
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krupalimakadiya&label=Views&color=blue&style=plastic" alt="krupalimakadiya" /> </p>
 
 **Languages and Tools:**  
 
