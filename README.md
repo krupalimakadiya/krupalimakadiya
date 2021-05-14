@@ -20,7 +20,7 @@
 
 <h3 align="left">My Github States:</h3> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krupalimakadiya&layout=compact)](https://github.com/krupalimakadiya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krupalimakadiya&layout=compact&hide=php)](https://github.com/krupalimakadiya/github-readme-stats)
 
 <!---
 krupalimakadiya/krupalimakadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
